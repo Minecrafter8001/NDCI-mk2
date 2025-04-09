@@ -13,6 +13,9 @@ It adds a basic mk2 version of the NDCI autopilot that includes the missing [ARL
 
 ---
 
+## Compatability
+This mod is not compatable with [Industries Of Enceladus Revamp](https://github.com/rwqfsfasxc100/Industries-Of-Enceladus-Rewrite/) or [Industries of Enceladus](https://github.com/spdx-github/IndustriesOfEnceladus)
+
 ## Credits
 
 - **[Digitalbarrow](https://github.com/digitalbarrito/)** for the [BootlegERM-420] mod(https://github.com/digitalbarrito/BootlegIndustries/tree/main/BootlegERM-420) this is based on.
