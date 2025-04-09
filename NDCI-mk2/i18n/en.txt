@@ -1,0 +1,10 @@
+locale|en
+
+
+SYSTEM_AUTOPILOT_MK3_2|NDCI Autopilot "MK2"
+
+SYSTEM_AUTOPILOT_MK3_2_DESC|The NDCI autopilot is a decommissioned and gentled military-grade artificial neural network, used as the autopilot system in Tsukuyomi-class frigates. Rotational Thrust Computation capabilities allow it to accurately process and predict the impact of thrust alignment on rotation, for faster heading adjustments and less unintentional rotation. Its integration with standard Head-Up Display systems exposes its internal tactical assessment to the pilot. An integrated Fly-By-Wire system can interpret and augment direct thruster commands. The demilitarized system is not capable of full autonomy.\n\nColloquially known as the NDCI Mk2, this aftermarket modification of the MDCI adds the ARL and AAT features missing from the standard model.
+
+SYSTEM_AUTOPILOT_MK3_2_SPECS|Developer: Nakamura Dynamics (aftermarket)\nCapabilities: Adaptive Angular Thrust\nAntipodal Reaction Limiter\nRotational Thrust Computation\nFly-By-Wire\nFiring solutions\nCollision warnings
+
+SYSTEM_AUTOPILOT_MK3_2_MANUAL|Displays firing solutions.\n Displays collision warnings.\nARL: Cancels out opposite thrusters, conserving fuel.\nAAT: Observes cargo mass shifts and thruster damage to compute the minimum thrust required for manoeuvre.\nRTC: Dynamically computes the most performant thrusters to perform any manoeuvre.\nFBW: Routes all manual thruster input through the autopilot.\nCan use gimbaled main drives efficiently.
