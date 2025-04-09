@@ -2,23 +2,24 @@ extends "res://ships/ship-ctrl.gd"
 
 func hasFbw()->bool:
 	var type = getConfig("autopilot.type")
+	
 	match (type):
+		"SYSTEM_AUTOPILOT_MK3_2":
+			return true
 		"SYSTEM_AUTOPILOT_MK3":
 			return true
 		"SYSTEM_AUTOPILOT_MK4":
 			return true
 		"SYSTEM_AUTOPILOT_RTYPE":
 			return true
-		"SYSTEM_AUTOPILOT_MK3_2":
-			return true
 	return false
 	
 func hasCollisionWarning()->bool:
 	var type = getConfig("autopilot.type")
 	match (type):
-		"SYSTEM_AUTOPILOT_MK3":
+		"SYSTEM_AUTOPILOT_MK3_2":
 			return true
-		"SYSTEM_AUTOPILOT_MK3_2"
+		"SYSTEM_AUTOPILOT_MK3":
 			return true
 	return false
 

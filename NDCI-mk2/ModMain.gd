@@ -27,10 +27,10 @@ func _init(modLoader = ModLoader):
 	# extends ship-ctrl.gd to add the autopilot because most of it's exisetence is definied here.
 	installScriptExtension("ships/ship-ctrl.gd")
 	
-	# extends AutopilotOverlay.gd to tell the game that the ERM-420 should have NDCI's boresight.
+	# extends AutopilotOverlay.gd to tell the game that the EDCI mk2 should have colision warnings
 	installScriptExtension("hud/AutopilotOverlay.gd")
 	
-	# replaces Upgrades.tscn to add the ERM-420 to the autopilot slot in the equipment screen.
+	# replaces Upgrades.tscn to add the EDCI mk2 to the autopilot slot in the equipment screen.
 	replaceScene("enceladus/Upgrades.tscn")
 	
 	l("Initialized")
