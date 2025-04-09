@@ -18,6 +18,8 @@ This mod is not compatable with [Industries Of Enceladus Revamp](https://github.
 
 ## Credits
 
+---
+
 - **[Digitalbarrow](https://github.com/digitalbarrito/)** for the [BootlegERM-420](https://github.com/digitalbarrito/BootlegIndustries/tree/main/BootlegERM-420) mod this is based on.
 - **__hev** for their work on the [wiki modding guide](https://delta-v.kodera.pl/index.php/Writing_Your_Own_Mod).
 - **[Za'krin](https://github.com/ZakrinYoran/Delta-V-Modding)** for the original modding templates and guide.
