@@ -15,6 +15,6 @@ It adds a basic mk2 version of the NDCI autopilot that includes the missing [ARL
 
 ## Credits
 
-- **[Digitalbarrow](https://github.com/digitalbarrito/)** for the [BootlegERM-420 mod](https://github.com/digitalbarrito/BootlegIndustries/tree/main/BootlegERM-420) this project is based on.
+- **[Digitalbarrow](https://github.com/digitalbarrito/)** for the [BootlegERM-420] mod(https://github.com/digitalbarrito/BootlegIndustries/tree/main/BootlegERM-420) this is based on.
 - **__hev** for their work on the [wiki modding guide](https://delta-v.kodera.pl/index.php/Writing_Your_Own_Mod).
 - **[Za'krin](https://github.com/ZakrinYoran/Delta-V-Modding)** for the original modding templates and guide.
